@@ -4,19 +4,19 @@
 }
 @font-face {
     font-family: 'Pacifico2';
-    src: url('../Pacifico/Pacifico-Regular.ttf') format('truetype');
+    src: url('.Pacifico-Regular.ttf') format('truetype');
     font-weight: small;
     font-style: normal;
 }
 @font-face {
     font-family: 'Pacifico';
-    src: url('../Oi/Oi-Regular.ttf') format('truetype');
+    src: url('.Oi-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Pacifico3';
-    src: url('../Arista_Pro_Fat.otf') format('truetype');
+    src: url('.Arista_Pro_Fat.otf') format('truetype');
     font-weight: bolder;
     font-style: normal;
 }
